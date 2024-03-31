@@ -1,0 +1,10 @@
+discord
+figma
+visual-studio-code
+brave-browser
+vlc
+intellij-idea-ce
+android-studio
+android-platform-tools
+sublime-text
+docker
